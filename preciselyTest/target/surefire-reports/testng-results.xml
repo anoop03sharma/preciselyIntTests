@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="interviewTests.Precisely_Test" duration-ms="47003" started-at="2021-09-19T01:08:19 IST" finished-at="2021-09-19T01:09:06 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47003" started-at="2021-09-19T01:08:19 IST" finished-at="2021-09-19T01:09:06 IST">
+      <class name="interviewTests.Precisely_Test">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:interviewTests.Precisely_Test@4e1d422d]" name="launchbrowser" is-config="true" duration-ms="11874" started-at="2021-09-19T01:08:19 IST" finished-at="2021-09-19T01:08:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:interviewTests.Precisely_Test@4e1d422d]" name="testOne" duration-ms="17193" started-at="2021-09-19T01:08:31 IST" finished-at="2021-09-19T01:08:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:interviewTests.Precisely_Test@4e1d422d]" name="launchbrowser" is-config="true" duration-ms="10186" started-at="2021-09-19T01:08:48 IST" finished-at="2021-09-19T01:08:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:interviewTests.Precisely_Test@4e1d422d]" name="testTwo" duration-ms="7009" started-at="2021-09-19T01:08:58 IST" finished-at="2021-09-19T01:09:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:interviewTests.Precisely_Test@4e1d422d]" name="closeDriver" is-config="true" duration-ms="694" started-at="2021-09-19T01:09:05 IST" finished-at="2021-09-19T01:09:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- interviewTests.Precisely_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- interviewTests.Precisely_Test -->
+</testng-results>
